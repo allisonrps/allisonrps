@@ -32,10 +32,11 @@
 
 
 <br/>
-
+<!--
 <a href="https://github.com/allisonrps" title="Perfil do Allison">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
+-->
 
 ## Onde me encontrar
 
