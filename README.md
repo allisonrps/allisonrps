@@ -3,7 +3,10 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e aprendendo sempre.
-- 🎓 Estudando {Desenvolvimento de Software Multiplataforma} na {FATEC}.
+- 🎓 Estudando Desenvolvimento de Software Multiplataforma (4/6) na FATEC (Faculdade de Tecnologia).
+- Franca SP Brasil
+
+[![allisonrps](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Skills
 
