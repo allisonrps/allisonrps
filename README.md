@@ -6,7 +6,7 @@
 - 🎓 Estudando Desenvolvimento de Software Multiplataforma (4/6) na FATEC (Faculdade de Tecnologia).
 - Franca SP Brasil
 
-[![allisonrps](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Skills
 
