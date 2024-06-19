@@ -4,9 +4,8 @@
 
 - 🤔 Explorando novas tecnologias e aprendendo sempre.
 - 🎓 Estudando Desenvolvimento de Software Multiplataforma (4/6) na FATEC (Faculdade de Tecnologia).
-- Franca SP Brasil
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![card](https://github-readme-stats.vercel.app/api?username=allisonrps&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Minhas Skills
 
