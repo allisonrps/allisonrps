@@ -1,4 +1,7 @@
-## Hi there 👋
+- Estudando Desenvolvimento de software Multiplataforma na Faculdade de Tecnologia de Franca/SP (FATEC)
+- Atualmente no 4º SEMESTRE 2024/2
+
+TECNOLOGIAS e HABILIDADES EM ESTUDO:
 
 <!--
 **allisonrps/allisonrps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
