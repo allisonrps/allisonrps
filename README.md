@@ -1,8 +1,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed) -->
 
 ## Sobre mim
-
-- 🤔 Explorando novas tecnologias e aprendendo sempre.
 - 🎓 Estudando Desenvolvimento de Software Multiplataforma (4/6) na FATEC (Faculdade de Tecnologia).
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
