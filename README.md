@@ -1,7 +1,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed) -->
 
 ## Sobre mim
-- 🎓 Graduando em Desenvolvimento de Software Multiplataforma (4/6) na FATEC (Faculdade de Tecnologia).
+- 🎓 Graduando em Desenvolvimento de Software Multiplataforma (5/6) na FATEC (Faculdade de Tecnologia).
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![card](https://github-readme-stats.vercel.app/api?username=allisonrps&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
