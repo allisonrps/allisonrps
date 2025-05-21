@@ -36,7 +36,7 @@
 </a>
 -->
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=allison-rodrigues)](https://www.linkedin.com/in/allison-rodrigues-27002b266/)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=allison-rodrigues)](https://www.linkedin.com/in/allisonrps/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allison_rps@hotmail.com)](mailto:allison_rps@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/allisonrps?label=follow&style=social)](https://github.com/allisonrps)
 
