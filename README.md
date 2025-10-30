@@ -1,42 +1,45 @@
-<!-- ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed) -->
-
 ## Sobre mim
 - 🎓 Graduando em Desenvolvimento de Software Multiplataforma (6/6) na FATEC (Faculdade de Tecnologia).
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![card](https://github-readme-stats.vercel.app/api?username=allisonrps&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Minhas Skills
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react-native&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+
+![SQLServer](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 **Utilidades**
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**DevOps**
+---
 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![React](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+**DevOps & Controle de Versão**
 
-**Ferramentas de desenvolvimento**
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
 
-<!--
-<a href="https://github.com/allisonrps" title="Perfil do Allison">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
--->
+**Ferramentas de Desenvolvimento**
 
-[![Linkedin](https://img.shields.io/badge/-allisonrps-blue?style=flat-square&logo=Linkedin&logoColor=white&link=allison-rodrigues)](https://www.linkedin.com/in/allisonrps/)
-[![Gmail Badge](https://img.shields.io/badge/-email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allison_rps@hotmail.com)](mailto:allison_rps@hotmail.com)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+[![Linkedin](https://img.shields.io/badge/-allisonrps-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=allison-rodrigues)](https://www.linkedin.com/in/allisonrps/)
+[![Gmail Badge](https://img.shields.io/badge/-email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:allison_rps@hotmail.com)](mailto:allison_rps@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/allisonrps?label=follow&style=social)](https://github.com/allisonrps)
 
