@@ -1,5 +1,6 @@
-## Sobre mim
-- 🎓 Graduando em Desenvolvimento de Software Multiplataforma (6/6) na FATEC (Faculdade de Tecnologia).
+## Graduação
+- 🎓 Técnologo em Desenvolvimento de Software Multiplataforma pela FATEC (Faculdade de Tecnologia).
+Fev 2023 - Dez 2025
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![card](https://github-readme-stats.vercel.app/api?username=allisonrps&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
