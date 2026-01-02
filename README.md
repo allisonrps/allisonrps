@@ -1,45 +1,88 @@
-## Graduação
-- 🎓 Técnologo em Desenvolvimento de Software Multiplataforma pela FATEC (Faculdade de Tecnologia).
-Fev 2023 - Dez 2025
+<div align="center">
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api?username=allisonrps&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# Allison Rodrigues
 
-## Minhas Skills
+**Desenvolvedor de Software | Full Stack | Mobile & Web**
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react-native&logoColor=black)
+Tecnólogo em Desenvolvimento de Software Multiplataforma pela **FATEC**.
+Foco em desenvolvimento **Web**, **Mobile** e **APIs**, com experiência em projetos acadêmicos e pessoais utilizando boas práticas, versionamento e containers.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-
-![SQLServer](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
 ---
 
-**Utilidades**
+## 🎓 Formação
 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-**DevOps & Controle de Versão**
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tecnólogo em Desenvolvimento de Software Multiplataforma**  
+FATEC – Faculdade de Tecnologia  
+📅 Fev 2023 – Dez 2025
 
 ---
 
-**Ferramentas de Desenvolvimento**
+## 🛠️ Stack Tecnológica
 
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React%20Native-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/SQL%20Server-1F2937?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927"/>
+<img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/VS%20Code-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+
+</div>
 
 ---
 
-[![Linkedin](https://img.shields.io/badge/-allisonrps-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=allison-rodrigues)](https://www.linkedin.com/in/allisonrps/)
-[![Gmail Badge](https://img.shields.io/badge/-email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:allison_rps@hotmail.com)](mailto:allison_rps@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/allisonrps?label=follow&style=social)](https://github.com/allisonrps)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=allisonrps&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonrps&layout=compact&theme=dark&hide_border=true"/>
+</div>
+
+---
+
+## 💼 Perfil Profissional
+
+- Desenvolvimento de aplicações **Web e Mobile**
+- Criação e consumo de **APIs REST**
+- Experiência com **bancos de dados relacionais e NoSQL**
+- Versionamento de código com **Git/GitHub**
+- Conteinerização de aplicações com **Docker**
+- Organização de projetos seguindo boas práticas de arquitetura
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/allisonrps/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:allison_rps@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://github.com/allisonrps">
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+_Em constante evolução, buscando oportunidades para aplicar conhecimentos, aprender novas tecnologias e contribuir com soluções eficientes._
+
+</div>
+
+
