@@ -19,7 +19,7 @@ FATEC – Faculdade de Tecnologia
 📅 Fev 2023 – Dez 2025
 
 **TOEIC International English Test**
-Nível Intermediário
+- Nível Intermediário
 
 ---
 
