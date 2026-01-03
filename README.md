@@ -5,7 +5,8 @@
 **Desenvolvedor de Software | Full Stack | Mobile & Web**
 
 Tecnólogo em Desenvolvimento de Software Multiplataforma pela **FATEC**.
-Foco em desenvolvimento **Web**, **Mobile** e **APIs**, com experiência em projetos acadêmicos e pessoais utilizando boas práticas, versionamento e containers.
+Foco em desenvolvimento **Web**, **Mobile** e **APIs**, 
+com experiência em projetos acadêmicos e pessoais utilizando boas práticas, versionamento e containers.
 
 </div>
 
@@ -23,20 +24,17 @@ FATEC – Faculdade de Tecnologia
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React%20Native-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/SQL%20Server-1F2937?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927"/>
-<img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/VS%20Code-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/>
 </div>
 
 ---
@@ -57,7 +55,7 @@ FATEC – Faculdade de Tecnologia
 - Experiência com **bancos de dados relacionais e NoSQL**
 - Versionamento de código com **Git/GitHub**
 - Conteinerização de aplicações com **Docker**
-- Organização de projetos seguindo boas práticas de arquitetura
+- Organização de projetos seguindo design patterns e boas práticas de arquitetura
 
 ---
 
@@ -81,7 +79,8 @@ FATEC – Faculdade de Tecnologia
 
 <div align="center">
 
-_Em constante evolução, buscando oportunidades para aplicar conhecimentos, aprender novas tecnologias e contribuir com soluções eficientes._
+_Em constante evolução, buscando oportunidades para aplicar conhecimentos, 
+aprender novas tecnologias e contribuir com soluções eficientes._
 
 </div>
 
