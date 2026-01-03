@@ -15,8 +15,7 @@ com experiência em projetos acadêmicos e pessoais utilizando boas práticas, v
 ## 🎓 Formação & Certificados
 
 **Tecnólogo em Desenvolvimento de Software Multiplataforma**  
-FATEC – Faculdade de Tecnologia  
-📅 Fev 2023 – Dez 2025
+- FATEC – Faculdade de Tecnologia - 📅 Fev 2023 – Dez 2025
 
 **TOEIC International English Test**
 - Nível Intermediário
