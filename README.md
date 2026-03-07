@@ -10,6 +10,11 @@ com experiência em projetos acadêmicos e pessoais utilizando boas práticas, v
 
 </div>
 
+## 🚀 Projeto em Destaque: Autonomax
+
+Atualmente, estou trabalhando no desenvolvimento do **Autonomax**, uma solução completa para gestão de fluxo de caixa voltada a profissionais autônomos.
+🔗 **[Acessar Repositório do Autonomax](https://github.com/allisonrps/Autonomax)** | 🌐 **[Visualizar Projeto Online](https://autonomax.vercel.app)**
+
 ---
 
 ## 🎓 Formação & Certificados
@@ -37,6 +42,7 @@ com experiência em projetos acadêmicos e pessoais utilizando boas práticas, v
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/>
 </div>
 
 ---
