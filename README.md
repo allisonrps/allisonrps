@@ -2,7 +2,7 @@
 
 # Allison Rodrigues
 
-**Desenvolvedor de Software | Full Stack | Mobile & Web**
+**Desenvolvedor de Software | Full Stack **
 
 Tecnólogo em Desenvolvimento de Software Multiplataforma pela **FATEC**.
 Foco em desenvolvimento **Web**, **Mobile** e **APIs**, 
